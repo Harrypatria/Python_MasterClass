@@ -1,4 +1,4 @@
-### Decription
+### Description
 - Python is a free, a general-purpose, and portable programming language. It is easy to use with its simple syntax and readability, which makes the code easy to understand and maintain (see the Berkeley blog). Python can be extended via libraries that can be used to tackle problems in machine learning, data analysis, and beyond. It has a vast ecosystem and a dynamic user’s community that make Python accessible to everyone.
 
 - The focus of this course will be on Data Science. According to Wikipedia, Data Science is a concept to unify statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with large volumes of data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, and information science. It aims to find unseen patterns, derive meaningful information, and make decisions based on the data.
