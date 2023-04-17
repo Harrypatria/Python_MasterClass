@@ -46,7 +46,7 @@ ASTG provides Python related courses to enable NASA scientists and engineers to 
 ## ASTG Python Courses
 The Advanced Software Technology Group (ASTG) provides a number of software and hardware support services to the NASA Goddard community. ASTG services include Level 2 help desk support, user training, code migration, performance tuning, parallelization, algorithmic development, software engineering, and code modernization. ASTG works closely with NCCS to assess code performance and system configuration as new hardware systems are integrated. Additionally, ASTG supports developmental projects to research beneficial impacts of emerging technologies on Earth science code performance and advancing software tools to enhance community use of NASA models.
 
-ASTG aims to provide training opportunities in areas such as high-level computing languages, debugging tools, and parallelization of codes. Beginning in September 2020, ASTG plans to provide a series of Python training classes that focus on:
+ASTG aims to provide training opportunities in areas such as high-level computing languages, debugging tools, and parallelization of codes. Beginning in September 2020, ASTG plans to provide a series of Python training classes that focus on the followings:
 - Knowledge of the language
 - Data manipulation and visualization
 - Data Science
