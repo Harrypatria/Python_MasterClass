@@ -54,4 +54,3 @@ ASTG aims to provide training opportunities in areas such as high-level computin
 - Data Parallelism
 
 All the classes are meant for people who are already familiar with another programming language and quickly want to learn Python. Some of the courses here could be taken as SATERN credits and the registration process will be handled through SATERN.
-
