@@ -85,8 +85,6 @@ ASTG offers training in:
 - Machine Learning and Data Parallelism  
 - High-performance computing techniques  
 
-> Many of these sessions were initially built for NASA interns and staff, ensuring they are high-quality and practice-driven.
-
 ---
 
 <div align="center">
